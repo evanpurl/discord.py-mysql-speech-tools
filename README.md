@@ -1,4 +1,4 @@
-# python-mysql-speech-tools
+# discord.py-mysql-speech-tools
 
 This module has been created to add chatbot like abilities to your discord.py discord bot.
 
